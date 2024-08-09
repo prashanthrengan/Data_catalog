@@ -1,6 +1,3 @@
-Certainly! Here’s a detailed README file for the Python script you provided. This README will help users understand the script’s purpose, setup, usage, and other important aspects.
-
----
 
 # **Data Catalog with Vector Search and NLP**
 
