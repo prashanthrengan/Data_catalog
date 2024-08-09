@@ -21,7 +21,7 @@ df = pd.read_csv('/content/data_catalog.csv')
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # Initialize Pinecone
-pc = Pinecone(api_key="25b91f14-c6fc-44f6-aeac-2b7e0f0f7913")  # Replace 'your-api-key' with your actual Pinecone API key
+pc = Pinecone(api_key="XXXXXXXXXXXXXXXXXXXX")  # Replace 'your-api-key' with your actual Pinecone API key
 
 # Create a new index or connect to an existing one
 index_name = "metadata-index"
